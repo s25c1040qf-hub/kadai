@@ -12,6 +12,7 @@
 $ git clone https://github.com/s25c1040qf-hub/kadai.git
 $cd kadai
 $chmod +x kadai.py
+$chmod +x test.bash
 ```
 
 ## 使い方
