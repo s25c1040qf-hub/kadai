@@ -9,8 +9,9 @@
 ## インストール
 
 ```bash
-$git clone https://github.com/ユーザー名/kadai.git
+$ git clone https://github.com/s25c1040qf-hub/kadai.git
 $cd kadai
+chmod +x kadai.py
 ```
 
 ## 使い方
