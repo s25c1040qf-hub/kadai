@@ -9,8 +9,8 @@
 ## インストール
 
 ```bash
-git clone https://github.com/ユーザー名/kadai.git
-cd kadai
+$git clone https://github.com/ユーザー名/kadai.git
+$cd kadai
 ```
 
 ## 使い方
